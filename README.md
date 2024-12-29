@@ -1,5 +1,6 @@
 
-# Intelligent Customer Support Agentic AI An NLP - Driven Solution with LangGraph and LangChain
+# Intelligent Customer Support Agentic AI 
+# An NLP - Driven Solution with LangGraph and LangChain
 
 
 This intelligent customer support AI agent leverages LangGraph and LangChain to automate and enhance customer service operations. The system employs sophisticated natural language processing to categorize queries, analyze sentiment, and generate appropriate responses, while featuring smart escalation protocols for complex cases. Through its structured workflow and integration with Groq's LLaMA 3.3 70B model, it streamlines customer support processes while maintaining high-quality, consistent interactions.
