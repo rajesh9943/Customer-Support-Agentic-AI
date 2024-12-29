@@ -16,6 +16,9 @@ This Project outlines the implementation of an intelligent customer support agen
 
 AI agents can encompass a wide range of functionalities beyond natural language processing including decision-making, problem-solving, interacting with external environments and executing actions.
 
+![image](https://github.com/user-attachments/assets/066369ec-891c-4d27-bf3a-e04ede15cfc0)
+
+
 ## Context of Customer Support AI agent
 
 An AI agent for customer support might:
@@ -97,6 +100,9 @@ The system processes customer queries through a structured workflow:
 5.	Termination Point (end)
 
     Finalizes responses and returns them to customers.
+
+   ![image](https://github.com/user-attachments/assets/a80092ea-0cbb-4491-9a4c-bc7644b97e0c)
+
 
 ## Dependencies
 
