@@ -23,7 +23,7 @@ AI agents can encompass a wide range of functionalities beyond natural language 
 
 An AI agent for customer support might:
 
-•	Perceive customer queries (via text or voice).
+•	Perceive customer queries.
 
 •	Categorize the queries (e.g., billing, technical support).
 
